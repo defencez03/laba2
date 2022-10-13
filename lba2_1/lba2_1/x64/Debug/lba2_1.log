@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(76,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(95,22): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(99,19): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(106,22): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(110,19): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(117,22): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(121,19): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(129,22): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(133,19): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(139,21): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(145,21): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(151,21): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Василий\source\repos\lba2_1\lba2_1\Source.cpp(158,21): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  lba2_1.vcxproj -> C:\Users\Василий\source\repos\lba2_1\x64\Debug\lba2_1.exe
